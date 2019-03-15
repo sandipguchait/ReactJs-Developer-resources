@@ -23,6 +23,7 @@
 - [Advanced React and Redux: 2018 Edition | Stephen Grider](https://www.udemy.com/react-redux-tutorial)  :heavy_dollar_sign: :star:
 - [React Front To Back| Brad Traversy](https://www.udemy.com/react-front-to-back/) :heavy_dollar_sign: :star:
 - [MERN Stack Front To Back: Full Stack React, Redux & Node.js | Brad Traversy](https://www.udemy.com/mern-stack-front-to-back/) :heavy_dollar_sign: :star:
+- [Master Full-Stack Web Development | Node, SQL, React, & More| David Joseph Katz](https://www.udemy.com/full-stack/) :heavy_dollar_sign:
 - [Universal React with Next.js - The Ultimate Guide| Reed Barger](https://scrimba.com/g/glearnreact):heavy_dollar_sign: :star:
 - [Full-Stack React with GraphQL and Apollo Boost| Reed Barger](https://www.udemy.com/full-stack-react-with-graphql-and-apollo-boost/) :heavy_dollar_sign: :star:
 - [Build a Realtime App with React Hooks and GraphQL| Reed Barger](https://www.udemy.com/build-a-realtime-app-with-react-hooks-and-graphql/) :heavy_dollar_sign: :star:
