@@ -18,6 +18,7 @@
 - [Modern React with Redux [2019 Update] | Stephen Grider](https://www.udemy.com/react-redux/) :heavy_dollar_sign: :star:
 - [React - The Complete Guide (incl Hooks, React Router, Redux) | Maximilian Schwarzmüller](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: 
 - [The complete React and Redux course: Build modern apps | Coding Revolution](https://www.udemy.com/the-complete-react-and-redux-course-build-modern-apps/) :heavy_dollar_sign:
+- [The Advanced Web Developer Bootcamp | Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane](https://www.udemy.com/the-advanced-web-developer-bootcamp/) :heavy_dollar_sign:
 
 ###### REACTJS ( Advanced + Full Stack Projects)
 - [Advanced React and Redux: 2018 Edition | Stephen Grider](https://www.udemy.com/react-redux-tutorial)  :heavy_dollar_sign: :star:
