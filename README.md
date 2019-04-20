@@ -20,7 +20,7 @@
 - [The complete React and Redux course: Build modern apps | Coding Revolution](https://www.udemy.com/the-complete-react-and-redux-course-build-modern-apps/) :heavy_dollar_sign:
 - [The Advanced Web Developer Bootcamp | Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane](https://www.udemy.com/the-advanced-web-developer-bootcamp/) :heavy_dollar_sign:
 
-###### REACTJS ( Advanced + Full Stack Projects)
+###### REACTJS ( Advanced with Node and Full Stack Projects)
 - [Advanced React and Redux: 2018 Edition | Stephen Grider](https://www.udemy.com/react-redux-tutorial)  :heavy_dollar_sign: :star:
 - [React Front To Back| Brad Traversy](https://www.udemy.com/react-front-to-back/) :heavy_dollar_sign: :star:
 - [MERN Stack Front To Back: Full Stack React, Redux & Node.js | Brad Traversy](https://www.udemy.com/mern-stack-front-to-back/) :heavy_dollar_sign: :star:
