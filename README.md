@@ -21,6 +21,7 @@
 - [The Advanced Web Developer Bootcamp | Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane](https://www.udemy.com/the-advanced-web-developer-bootcamp/) :heavy_dollar_sign:
 
 ###### REACTJS ( Advanced with Node and Full Stack Projects)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL) | Andrei Neagoie, Yihua Zhang](https://www.udemy.com/complete-react-developer-zero-to-mastery)  :heavy_dollar_sign: :star:
 - [Advanced React and Redux: 2018 Edition | Stephen Grider](https://www.udemy.com/react-redux-tutorial)  :heavy_dollar_sign: :star:
 - [React Front To Back| Brad Traversy](https://www.udemy.com/react-front-to-back/) :heavy_dollar_sign: :star:
 - [MERN Stack Front To Back: Full Stack React, Redux & Node.js | Brad Traversy](https://www.udemy.com/mern-stack-front-to-back/) :heavy_dollar_sign: :star:
